@@ -57,7 +57,7 @@
   <project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
 
   <!-- BP additions -->
-  <project path="packages/apps/Monochromatic" name="RichyHBM/Monochromatic" />
+  <project path="packages/apps/Monochromatic" name="spmp/Monochromatic" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" />
