@@ -57,7 +57,7 @@
 
   <!-- BP additions -->
   <!--project path="packages/apps/Monochromatic" name="spmp/Monochromatic" /-->
-  <project path="packages/apps/OsmAnd" name="osmandapp/Osmand" />
+  <project path="packages/apps/OsmAnd" name="spmp/Osmand" />
   <!-- Double touch wake nad performance monitoring, maybe not needed -->
   <!--project path="device/qcom/common" name="LineageOS/android_device_qcom_common" /-->
 
