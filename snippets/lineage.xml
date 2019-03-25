@@ -44,7 +44,7 @@
 <!-- Boring Phone version   -->
   <project path="packages/apps/SetupWizard" name="spmp/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
-  <project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/Trebuchet" name="spmp/android_packages_apps_Trebuchet" />
 <!-- Boring Phone version   -->
   <project path="packages/apps/Updater" name="spmp/android_packages_apps_Updater" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
