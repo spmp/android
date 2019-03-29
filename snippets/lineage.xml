@@ -53,6 +53,10 @@
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
 <!-- Boring Phone version   -->
   <project path="vendor/lineage" name="spmp/android_vendor_lineage" />
+  
+  
+<!-- Boring Phone version of OSMAnd   -->
+  <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />
