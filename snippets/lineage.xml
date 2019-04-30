@@ -57,9 +57,11 @@
   
 
 <!-- Boring Phone version of OSMAnd   -->
-  <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" />  
+  <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" />
 <!-- Boring Phone version of Signal  -->
   <project path="packages/apps/Signal" name="spmp/android_packages_apps_Signal" />
+<!-- Boring Phone version of DAVx5  -->
+  <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />
