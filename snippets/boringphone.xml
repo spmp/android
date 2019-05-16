@@ -3,9 +3,9 @@
   <project name="spmp/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" />
 
 <!-- Boring Phone version of OSMAnd   -->
-<!--   <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" /> -->
+  <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" />
 <!-- Boring Phone version of Signal  -->
-<!--   <project path="packages/apps/Signal" name="spmp/android_packages_apps_Signal" /> -->
+  <project path="packages/apps/Signal" name="spmp/android_packages_apps_Signal" />
 <!-- Boring Phone version of DAVx5  -->
 <!--   <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" /> -->
   
