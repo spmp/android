@@ -4,9 +4,15 @@
 
 <!-- Boring Phone version of OSMAnd   -->
   <project path="packages/apps/OSMAnd" name="spmp/android_packages_apps_OSMAnd" />
+  <project path="packages/apps/OSMAnd/android" name="spmp/Osmand.git" revision="r3.3"/>
+  <project path="packages/apps/OSMAnd/core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_3.3" />
+  <project path="packages/apps/OSMAnd/tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
+  <project path="packages/apps/OSMAnd/misc" name="osmandapp/OsmAnd-misc.git" revision="master" />
+  <project path="packages/apps/OSMAnd/resources" name="osmandapp/OsmAnd-resources.git" revision="r3.3" />
+  <project path="packages/apps/OSMAnd/help" name="osmandapp/osmandapp.github.io.git" revision="r3.3" />
 <!-- Boring Phone version of Signal  -->
-  <project path="packages/apps/Signal" name="spmp/android_packages_apps_Signal" />
+  <project path="packages/apps/Signal" name="spmp/Signal-Android" />
 <!-- Boring Phone version of DAVx5  -->
-<!--   <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" /> -->
+  <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" />
   
 </manifest>
