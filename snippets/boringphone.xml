@@ -14,5 +14,7 @@
   <project path="packages/apps/Signal" name="spmp/Signal-Android" />
 <!-- Boring Phone version of DAVx5  -->
   <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" />
+<!-- Boring Phone version of AntennaPod -->
+  <project sync-s="true" path="packages/apps/AntennaPod" name="spmp/AntennaPod" />
   
 </manifest>
