@@ -16,6 +16,8 @@
   <project sync-s="true" path="packages/apps/DAVx5" name="spmp/davx5" />
 <!-- Boring Phone version of AntennaPod -->
   <project sync-s="true" path="packages/apps/AntennaPod" name="spmp/AntennaPod" />
+<!-- Boring Phone version of Notepad -->
+  <project sync-s="true" path="packages/apps/Notepad" name="spmp/Notepad" />
 <!-- Swype/Gestures keyboard support -->
   <project path="external/bp_extra" name="spmp/android_external_bp_extra" />
 
